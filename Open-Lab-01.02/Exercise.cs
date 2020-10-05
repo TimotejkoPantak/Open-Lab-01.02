@@ -6,7 +6,9 @@ namespace Open_Lab_01._02
     {
         public int Sum(int a, int b)
         {
-            throw new NotImplementedException();
+            int vsetko;
+            vsetko = a + b;
+            return vsetko;
         }
     }
 }
